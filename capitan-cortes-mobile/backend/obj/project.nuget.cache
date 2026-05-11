@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "bwZc174T9WM=",
+  "success": false,
+  "projectFilePath": "C:\\Users\\cinti\\Downloads\\capitan-cortes-mobile-responsive\\capitan-cortes-mobile\\backend\\CapitanCortes.Api.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "No se puede resolver 'Microsoft.EntityFrameworkCore.InMemory (>= 8.0.8)' para 'net8.0'. PackageSourceMapping está habilitado. No se tuvieron en cuenta los siguientes orígenes: C:\\Program Files\\dotnet\\library-packs, Microsoft Visual Studio Offline Packages, nuget.org.",
+      "projectPath": "C:\\Users\\cinti\\Downloads\\capitan-cortes-mobile-responsive\\capitan-cortes-mobile\\backend\\CapitanCortes.Api.csproj",
+      "filePath": "C:\\Users\\cinti\\Downloads\\capitan-cortes-mobile-responsive\\capitan-cortes-mobile\\backend\\CapitanCortes.Api.csproj",
+      "libraryId": "Microsoft.EntityFrameworkCore.InMemory",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}
